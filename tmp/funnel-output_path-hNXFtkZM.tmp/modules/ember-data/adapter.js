@@ -1,0 +1,1 @@
+/Users/kid.ocean/itp404/node_modules/ember-data/addon/adapter.js
